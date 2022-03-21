@@ -1,4 +1,4 @@
-module github.com/pinkbottle/salty
+module github.com/charconstpointer/salty
 
 go 1.18
 
